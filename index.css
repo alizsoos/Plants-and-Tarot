@@ -1,0 +1,86 @@
+* {
+  margin: 15%;
+}
+.section video {
+      /* position: absolute; */
+      width: 100%;
+      height: 100%;
+      /* margin-bottom: px; */
+      /* top: 50%;
+      left: 50%; */
+    transform: translate(-60%, -60%);
+  }
+
+
+
+  .first {
+    position: absolute;
+    margin: 10px;
+    left: 30px;
+    top: 20px;
+   font-family: "Benguiat Pro ITC ", Serif;
+   color: rgb(246, 89, 221);
+    font-style: bold;
+    font-size: 60px;
+    font-weight: 100;
+    }
+
+    .second {
+      position: absolute;
+      margin: 10px;
+      left: 30px;
+      top: 820px;
+     font-family: "Benguiat Pro ITC ", Serif;
+     color: red;
+      font-style: bold;
+      font-size: 60px;
+      font-weight: 100;
+      }
+
+      .third {
+        position: absolute;
+        margin: 10px;
+        left: 30px;
+        top: 1620px;
+       font-family: "Benguiat Pro ITC ", Serif;
+       color: orange;
+        font-style: bold;
+        font-size: 60px;
+        font-weight: 100;
+        }
+
+        .fourth {
+          position: absolute;
+          margin: 10px;
+          left: 30px;
+          top: 2420px;
+         font-family: "Benguiat Pro ITC ", Serif;
+         color: Purple;
+          font-style: bold;
+          font-size: 60px;
+          font-weight: 100;
+          }
+
+          .fifth {
+            position: absolute;
+            margin: 10px;
+            left: 30px;
+            top: 3220px;
+           font-family: "Benguiat Pro ITC ", Serif;
+           color: rgb(32, 144, 94);
+            font-style: bold;
+            font-size: 60px;
+            font-weight: 100;
+            }
+
+            .sixth {
+              position: absolute;
+              margin: 10px;
+              left: 30px;
+              top: 4020px;
+             font-family: "Benguiat Pro ITC ", Serif;
+             color: rgb(0, 125, 255);
+              font-style: bold;
+              font-size: 60px;
+              font-weight: 100;
+              }
